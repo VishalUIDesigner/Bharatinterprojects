@@ -1,0 +1,365 @@
+.body {
+  width: 100%;
+  height: auto;
+}
+
+.desktop {
+  background-color: #fbf4ea;
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  width: 100%;
+}
+
+.desktop .div {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 100%;
+  height: 65px;
+  top: 0;
+  left: 0;
+  background-color: #f5f3f3;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 320px;
+  height: 60px;
+  top: 2px;
+  left: 16px;
+  background-image: url(https://c.animaapp.com/EeQtOcgr/img/ellipse-1.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 232px;
+  top: 15px;
+  left: 37px;
+  font-family: "Sofia", Helvetica;
+  font-weight: 400;
+  color: #035651;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.desktop .text-wrapper-v {
+  position: relative;
+  display: inline;
+  top: 30px;
+  left:50%;
+  padding-right: 20px;
+
+  font-family: "ABeeZee", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.desktop .group {
+  position: absolute;
+  width: 150px;
+height: 55px;
+  top: 8px;
+  right: 0px;
+
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 100%;
+
+  top: 215px;
+  left: 0;
+}
+
+
+
+.desktop .element {
+  position: absolute;
+  width: 500px;
+  height: 400px;
+  top: -125px;
+  right: 0px;
+  object-fit: cover;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 462px;
+  height: 220px;
+  top: -70px;
+  left: 143px;
+}
+
+.desktop .join-our-free {
+  position: absolute;
+  width: 462px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .span {
+  color: #045752;
+}
+
+.desktop .text-wrapper-7 {
+  color: #000000;
+}
+
+.desktop .text-wrapper-8 {
+  color: #eed702;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 462px;
+  top: 120px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 231px;
+  height: 61px;
+  top: 100px;
+  left: 143px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #045752;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 138px;
+  top: 6px;
+  left: 62px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #eed702;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.footer {
+
+  width: 100%;
+  position: absolute;
+  margin-bottom: 0px;
+
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: 20px;
+  left: 0;
+}
+.Headingpg
+{
+width: 462px; 
+height: 186px; 
+margin-top: 15%;
+margin-left: 10%;
+
+}
+.LetSMakeItHappen
+{
+color: #045752; 
+font-size: 37px; 
+font-family: Poppins; 
+font-weight: 600; 
+word-wrap: break-word;
+}
+.Together
+{
+color: #EED702; 
+font-size: 37px; 
+font-family: Poppins; 
+font-weight: 600; 
+word-wrap: break-word;
+}
+.AFabulousJourneyStartsWithYourRegistration
+{
+
+color: black; 
+font-size: 26px; 
+font-family: Poppins; 
+font-weight: 400; 
+word-wrap: break-word;
+line-height: normal;
+}
+
+.resGroup13
+{
+width: 450px; 
+height: 480px; 
+position: relative; 
+margin-left:55%; 
+margin-top: -24%;
+}
+
+.Rectangleres
+{
+width: 450px; 
+height: 480px; 
+left: 0px; 
+top: 0px; 
+position: absolute; 
+background: #FAE841;
+}
+.Rectangle6res
+{
+width: 450px; 
+height: 480px; 
+left: 0px; 
+top: 0px; 
+position: absolute; 
+background: white; 
+border-bottom-left-radius: 211px; 
+border-top-right-radius: 233px;
+box-shadow: inset 4px 0px 4px 0px rgba(0, 0, 0, 0.25),
+inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+inset -4px 4px 4px 0px rgba(0, 0, 0, 0.25),
+inset 0px -4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.RegistrationForm
+{
+
+left: 30px; 
+top: 27px; 
+position: absolute; 
+color: #045752; 
+font-size: 24px; 
+font-family: Poppins; 
+font-weight: 600; 
+word-wrap: break-word;
+}
+
+
+.inpGroup4
+{
+width: 347px; 
+height: 60px; 
+left: 100px; 
+top: 45px; 
+position: absolute;
+}
+.FullName
+{
+color: #948484; 
+font-size: 13px; 
+font-family: Poppins; 
+font-weight: 300; 
+word-wrap: break-word;
+margin-top:20px;
+
+
+}
+.Line1
+{
+width: 80%; 
+height: 30px; 
+border: none;
+border-bottom: 1.50px #EED702 solid;
+
+
+-webkit-transition: 0.5s;
+transition: 0.5s;
+outline: none;
+}
+::placeholder
+{
+color: #ddd6d6; 
+font-size: 10px; 
+font-family: Poppins; 
+font-weight: 300; 
+word-wrap: break-word;
+
+}
+
+a
+{
+text-decoration: none;
+color: #000000;
+}
+
+.subRectangle8
+{
+width: 80%; 
+height: 40px; 
+
+top: 0px; 
+position: absolute; 
+background: #045752;
+border: none;
+cursor: pointer;
+box-shadow: 0px 4px 4px #00000040;
+}
+.subRectangle9
+{
+width: 80%; 
+height: 40px; 
+left: 0px; 
+top: 0px; 
+position: absolute; 
+background: #FAE841; 
+border-bottom-left-radius: 50px; 
+border-top-right-radius: 50px;
+border: none;
+
+
+position: absolute; 
+color: #045752; 
+font-size: 15px; 
+font-family: Poppins; 
+font-weight: 600; 
+letter-spacing: 5px; 
+word-wrap: break-word;
+cursor: pointer;
+
+}
+
+
+.subGroup10
+{
+width: 348px; 
+height: 47px; 
+margin-top: 25px;
+
+position: absolute;
+
+}
+iconify-icon
+{
+color:#045752
+}
+
